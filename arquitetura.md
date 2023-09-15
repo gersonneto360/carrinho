@@ -1,6 +1,6 @@
 # Arquitetura de computadores #
 
-## Aula 5 - 14 09 2023 ##
+## Aula 5 - 14/09/2023 ##
 
 ### Gerson C N Neto ###
 
